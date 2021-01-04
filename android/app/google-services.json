@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135540977562",
+    "firebase_url": "https://pointku-b6e08-default-rtdb.firebaseio.com/",
+    "project_id": "pointku-b6e08",
+    "storage_bucket": "pointku-b6e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135540977562:android:c36f2afb46343f6912d423",
+        "android_client_info": {
+          "package_name": "com.example.pointku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135540977562-5bgevgamsjk5fcsoug0jtq8jqscjusqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pointku",
+            "certificate_hash": "296e08e7480b45d77dc301d311c7c01cf4fb0bb1"
+          }
+        },
+        {
+          "client_id": "135540977562-7sioup47s168oas3u3va03hakfcigvcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArqTs9JcKoZ6Q99cxzqtNubihWBqSrvDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135540977562-7sioup47s168oas3u3va03hakfcigvcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
